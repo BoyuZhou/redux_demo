@@ -1,11 +1,16 @@
-Do you want to request a feature or report a bug?
-你希望向我报告BUG还是提交一个内容需求？
+Before logging an issue:
 
-What is the current behavior?
-目前的问题表现是什么样的？
+* Ensure you have followed instructions in the [README](https://github.com/coryhouse/react-slingshot/blob/master/README.md)
+* Read the [FAQ](https://github.com/coryhouse/react-slingshot/blob/master/docs/FAQ.md)
+* Look through existing [open](https://github.com/coryhouse/react-slingshot/issues) and [closed](https://github.com/coryhouse/react-slingshot/issues?q=is%3Aissue+is%3Aclosed) issues to see if someone has reported the issue before
+* Still stuck? Report a new issue
 
-If the current behavior is a bug, please provide the steps to reproduce .
-如果这是个确认的问题，请描述一下具体的文章位置或是复现的步骤。
+Node version:
 
-What is the expected behavior?
-你预期的效果是什么样的呢？
+npm version:
+
+Operating system:
+
+Command line used:
+
+Steps to reproduce:
